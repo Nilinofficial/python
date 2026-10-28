@@ -6,7 +6,7 @@ i=1
 
 for i in range(1,10) :
     print(i)
-    i=i+1
+
 
     
 # print numbers  to 5;
@@ -14,7 +14,8 @@ for i in range(1,10) :
 
 for t in range(5) :
     print(t)
-    t=t+1
+    t=t+1 
+    # increment not needed actually
 
 # print all fruits
 
