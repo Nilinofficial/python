@@ -16,3 +16,5 @@ class third(first,second):
 x= third();
 
 x.display()
+
+# look operator overloading
